@@ -1,0 +1,64 @@
+{
+  "resCode": 39321,
+  "resData": {
+    "choicelist": [
+      {
+        "addApr": 0.6,
+        "apr": 7.5,
+        "bondUseful": false,
+        "ifSale": true,
+        "novice": true,
+        "projectId": "123123",
+        "projectName": "Xpdz Rnwqfxopl Krohtxpl Dzkbw Kokcjyhos",
+        "realizeUseful": false,
+        "specificSale": 0,
+        "timeLimit": 9,
+        "timeType": false,
+        "account": 200000,
+        "lowestAccount": 700,
+        "mostAccount": 3000,
+        "remainAccount": 20000,
+        "saleTime": 1480320547000
+      },
+      {
+        "addApr": 0.7,
+        "apr": 7.01,
+        "bondUseful": false,
+        "ifSale": true,
+        "novice": true,
+        "projectId": "123123",
+        "projectName": "Ewhj Jxivq Oocpaeklau Fblvuwsiif Jegbevhvh Zzkiplgkc",
+        "realizeUseful": false,
+        "specificSale": 1,
+        "timeLimit": 9,
+        "timeType": false,
+        "account": 600000,
+        "lowestAccount": 600,
+        "mostAccount": 4000,
+        "remainAccount": 80000,
+        "saleTime": 1480320548000
+      }
+    ],
+    "novicelist": [
+      {
+        "addApr": 0,
+        "apr": 8.2,
+        "bondUseful": true,
+        "ifSale": true,
+        "novice": false,
+        "projectId": "123123",
+        "projectName": "Ryuenzihv Qejpbh Hxxroubez Ftmolpne",
+        "realizeUseful": false,
+        "specificSale": 0,
+        "timeLimit": 27,
+        "timeType": true,
+        "account": 1000000,
+        "lowestAccount": 100,
+        "mostAccount": 5000,
+        "remainAccount": 80000,
+        "saleTime": 1480320547000
+      }
+    ]
+  },
+  "resMsg": "SUCCESS"
+}

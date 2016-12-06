@@ -1,4 +1,4 @@
-# company-project
+# vue-project
 
 > Webapp for vue.js
 
